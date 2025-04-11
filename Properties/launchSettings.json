@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Maze": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
